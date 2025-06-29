@@ -1,0 +1,65 @@
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f9f9fc;
+  color: #333;
+}
+header {
+  background-color: #5e4b8b;
+  color: white;
+  padding: 1em 0;
+}
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+.hero {
+  text-align: center;
+  margin-top: 50px;
+}
+.btn {
+  background-color: #7a63c3;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 20px;
+}
+footer {
+  text-align: center;
+  padding: 1em 0;
+  background-color: #eee;
+  margin-top: 50px;
+}
+.subscriptions {
+  margin: 40px 0;
+}
+.subscriptions h2 {
+  text-align: center;
+  color: #5e4b8b;
+}
+.subscription-category {
+  margin: 20px 0;
+}
+.subscription-category ul {
+  list-style: none;
+  padding: 0;
+}
+.subscription-category li {
+  margin: 5px 0;
+}
+.subscription-category a {
+  color: #7a63c3;
+  text-decoration: none;
+}
+.subscription-category a:hover {
+  text-decoration: underline;
+}
